@@ -8,9 +8,5 @@ git clone [link]
 git init
 4. Статус файлов в гите
 git status
-5. Начать отслеживать изменения файла
-git add filename
-git add . (Сразу все файлы)
-6. История комита
-git log
-7.
+
+
